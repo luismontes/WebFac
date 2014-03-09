@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Comprobante xmlns="http://www.sat.gob.mx/cfd/2"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.sat.gob.mx/cfd/2
+                                 http://www.sat.gob.mx/sitio_internet/cfd/2/cfdv22.xsd"
+             version="2.2"
+             serie="M"
+             folio="418"
+             fecha="2014-02-26T17:22:53"
+             sello="SINuJP973H1aZan3dctMys1l8KXRStGBMsMSMIuG5kFbaWgV4u9bXvojEkkkAEvg5Ol01W2oF/lZHsMHa06uCaEnn+C2ZUvbFdGT1WAsS8j12DBVW6F+UkJWFWrueOERMf4lN/sbcll+qfIgsuEQCT7+IjQnVQV/gV9DH/aGCoc="
+             noAprobacion="1203935"
+             anoAprobacion="2013"
+             formaDePago="VENTA DE CONTADO PAGO EN UNA SOLA EXHIBICION"
+             noCertificado="00001000000202505202"
+             certificado="MIIEkjCCA3qgAwIBAgIUMDAwMDEwMDAwMDAyMDI1MDUyMDIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNDE4NDM0OVoXDTE2MTIwNDE4NDM0OVowgdMxJjAkBgNVBAMTHUNJQSBDT01FUkNJQUwgQ0lNQUNPIFNBIERFIENWMSYwJAYDVQQpEx1DSUEgQ09NRVJDSUFMIENJTUFDTyBTQSBERSBDVjEmMCQGA1UEChMdQ0lBIENPTUVSQ0lBTCBDSU1BQ08gU0EgREUgQ1YxJTAjBgNVBC0THENDSTgxMTEyOTNUQSAvIE1VTUM0MjAyMTFDQTYxHjAcBgNVBAUTFSAvIE1VTUM0MjAyMTFIQ0xSUlIwMDESMBAGA1UECxMJUFJJTkNJUEFMMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDaYswi9IDMdeVnvdAf/rhgcHrC0xgG1BmZTVp738BtJvKbUCqrbJ+/RIanBPVabfmSMOxRnacmJbVQTvp8cFWEGkMXOWNZgzTb9HY8IUZ2Mxj8n2wPta6VwCyuYgjIbbjbYGD+eoODH2xY0RtdW0OATvudTLdbEeNAk8nkvMWn4QIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAIgjB8c1fidom17dwVpBVnbZYjNAzO3nUkAv8AmnItIsPenGP0PaJaW8h3DQEdivnGrO9xd9ZISiP5IEfY3TIYdMWtOne4zIECSDnN1nZ5E6GcCgLlP21QO1DerH0q3Wiw1enGwwd2m771C6EcjbIQOhToNlE+EMbxS4yiZvHh6bgmQOyG7yUH8uBY7n5bZ0qV/XSsLT0oIV8uOdS9dTdaVy1NWalwo+N8ji/1RWKGCoU68JCEJX9MpzcW4TRTtE5G9FZn2F5TMnNwjjp15MhfLLt9ErUD/jYqKgsioNPf9keBlQiJ6JcOU+R8a4LM6UhbvtsilidSJofH8/Lguy16A=="
+             subTotal="844.37"
+             TipoCambio="1.00"
+             Moneda="MXN"
+             descuento="0.00"
+             total="979.45"
+             metodoDePago="TARJETA DE DEBITO"
+             LugarExpedicion="MAZATLAN SINALOA"
+             NumCtaPago="4269"
+             tipoDeComprobante="ingreso">
+    <Emisor rfc="CCI8111293TA"
+            nombre="CIA. COMERCIAL CIMACO S.A. DE C.V.">
+       <DomicilioFiscal calle="AV HIDALGO PTE"
+                         noExterior="399"
+                         colonia="CENTRO"
+                         localidad="TORREON"
+                         municipio="TORREON"
+                         estado="COAHUILA"
+                         pais="MEXICO"
+                         codigoPostal="27000" />
+        <ExpedidoEn calle="AV REFORMA"
+                    noExterior="2206"
+                    noInterior="LOCAL R-14"
+                    colonia="ALAMEDA"
+                    localidad="MAZATLAN"
+                    municipio="MAZATLAN"
+                    estado="SINALOA"
+                    pais="MEXICO"
+                    codigoPostal="82123" />
+      <RegimenFiscal Regimen="REGIMEN GENERAL DE LEY DE PERSONAS MORALES" />
+    </Emisor>
+    <Receptor rfc="OAA080724CV9"
+              nombre="OCI &amp;  ASESORES FINANCIEROS SA DE CV">
+        <Domicilio calle="CALLE IGNACIO ZARAGOZA SUR"
+                   noExterior="50"
+                   colonia="LOS MOCHIS CENTRO"
+                   localidad="LOS MOCHIS"
+                   municipio="AHOME"
+                   estado="SINALOA"
+                   pais="MEXICO"
+                   codigoPostal="81200" />
+    </Receptor>
+    <Conceptos>
+        <Concepto cantidad="1" unidad="Piezas" noIdentificacion="4528824" descripcion="JEANS XOXO XOXO255" valorUnitario="430.17" importe="430.17" />
+        <Concepto cantidad="1" unidad="Piezas" noIdentificacion="4771051" descripcion="BLUSA M L THE CLASSI SS2401" valorUnitario="173.31" importe="173.31" />
+        <Concepto cantidad="1" unidad="Piezas" noIdentificacion="4499042" descripcion="SUDADERA C CAP COMPANY 81 C33HD74" valorUnitario="240.89" importe="240.89" />
+    </Conceptos>
+    <Impuestos totalImpuestosTrasladados="135.08">
+        <Traslados>
+            <Traslado impuesto="IVA"
+                      tasa="16.00"
+                      importe="135.08" />
+        </Traslados>
+    </Impuestos>
+    <Addenda>
+            <observaciones
+            				xmlns="https://edixcfdisecure.ekomercio.com/esquemas"
+							xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+							xsi:schemaLocation="https://edixcfdisecure.ekomercio.com/esquemas https://edixcfdisecure.ekomercio.com/esquemas/Cimaco.xsd">
+                <observacion>ESTA FACTURA SUSTITUYE A LA NOTA DE VENTA:  2024835 FECHA DE VENTA: 20140201 Ñ LA POSESION DE LA PRESENTE FACTURA NO ACREDITA SU LIQUIDACION Ñ                                                             Ñ</observacion>
+            </observaciones>
+    </Addenda>
+</Comprobante>

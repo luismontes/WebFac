@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Comprobante xmlns="http://www.sat.gob.mx/cfd/2"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.sat.gob.mx/cfd/2
+                                 http://www.sat.gob.mx/sitio_internet/cfd/2/cfdv22.xsd"
+             version="2.2"
+             serie="B"
+             folio="46854"
+             fecha="2014-02-26T19:05:43"
+             sello="i6G+rEtBaLoTQtqWekLVqemrbmsaKpLTcmzbk6UZSkV+QjEm+xOkFjQMsfu1p3RhWoNaukv1W9c/7dNG58KahnhJMKOODin3vWf1ogqQxmKBUb1+ohlYF0NTDxbgdcWSXLJOEgRNTS2Nxjbr03VMcsMuDtfWBP9RgEBSt8uS3CQ="
+             noAprobacion="1429262"
+             anoAprobacion="2012"
+             formaDePago="VENTA DE CONTADO PAGO EN UNA SOLA EXHIBICION"
+             noCertificado="00001000000202505202"
+             certificado="MIIEkjCCA3qgAwIBAgIUMDAwMDEwMDAwMDAyMDI1MDUyMDIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNDE4NDM0OVoXDTE2MTIwNDE4NDM0OVowgdMxJjAkBgNVBAMTHUNJQSBDT01FUkNJQUwgQ0lNQUNPIFNBIERFIENWMSYwJAYDVQQpEx1DSUEgQ09NRVJDSUFMIENJTUFDTyBTQSBERSBDVjEmMCQGA1UEChMdQ0lBIENPTUVSQ0lBTCBDSU1BQ08gU0EgREUgQ1YxJTAjBgNVBC0THENDSTgxMTEyOTNUQSAvIE1VTUM0MjAyMTFDQTYxHjAcBgNVBAUTFSAvIE1VTUM0MjAyMTFIQ0xSUlIwMDESMBAGA1UECxMJUFJJTkNJUEFMMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDaYswi9IDMdeVnvdAf/rhgcHrC0xgG1BmZTVp738BtJvKbUCqrbJ+/RIanBPVabfmSMOxRnacmJbVQTvp8cFWEGkMXOWNZgzTb9HY8IUZ2Mxj8n2wPta6VwCyuYgjIbbjbYGD+eoODH2xY0RtdW0OATvudTLdbEeNAk8nkvMWn4QIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAIgjB8c1fidom17dwVpBVnbZYjNAzO3nUkAv8AmnItIsPenGP0PaJaW8h3DQEdivnGrO9xd9ZISiP5IEfY3TIYdMWtOne4zIECSDnN1nZ5E6GcCgLlP21QO1DerH0q3Wiw1enGwwd2m771C6EcjbIQOhToNlE+EMbxS4yiZvHh6bgmQOyG7yUH8uBY7n5bZ0qV/XSsLT0oIV8uOdS9dTdaVy1NWalwo+N8ji/1RWKGCoU68JCEJX9MpzcW4TRTtE5G9FZn2F5TMnNwjjp15MhfLLt9ErUD/jYqKgsioNPf9keBlQiJ6JcOU+R8a4LM6UhbvtsilidSJofH8/Lguy16A=="
+             subTotal="586.20"
+             TipoCambio="1.00"
+             Moneda="MXN"
+             descuento="0.00"
+             total="679.99"
+             metodoDePago="TARJETA DE DEBITO"
+             LugarExpedicion="TORREON COAHUILA"
+             NumCtaPago="9047"
+             tipoDeComprobante="ingreso">
+    <Emisor rfc="CCI8111293TA"
+            nombre="CIA. COMERCIAL CIMACO S.A. DE C.V.">
+       <DomicilioFiscal calle="AV HIDALGO PTE"
+                         noExterior="399"
+                         colonia="CENTRO"
+                         localidad="TORREON"
+                         municipio="TORREON"
+                         estado="COAHUILA"
+                         pais="MEXICO"
+                         codigoPostal="27000" />
+        <ExpedidoEn calle="BLVD INDEPENDENCIA OTE"
+                    noExterior="1300"
+                    colonia="NAVARRO"
+                    localidad="TORREON"
+                    municipio="TORREON"
+                    estado="COAHUILA"
+                    pais="MEXICO"
+                    codigoPostal="27010" />
+      <RegimenFiscal Regimen="REGIMEN GENERAL DE LEY DE PERSONAS MORALES" />
+    </Emisor>
+    <Receptor rfc="PCC120823G19"
+              nombre="PC &amp;  B CAPITAL HUMANO SA DE CV">
+        <Domicilio calle="AV UNIVERSIDAD"
+                   noExterior="2014"
+                   noInterior="PISO"
+                   colonia="COPILCO UNIVERSIDAD"
+                   localidad="DELEGACION COYOACAN"
+                   municipio="DELEGACION COYOACAN"
+                   estado="DISTRITO FEDERAL"
+                   pais="MEXICO"
+                   codigoPostal="04360" />
+    </Receptor>
+    <Conceptos>
+        <Concepto cantidad="1" unidad="NO APLICA" noIdentificacion="1" descripcion="CONSUMO DE ALIMENTOS CAFE CIMACO LA TERRAZZA" valorUnitario="586.20" importe="586.20" />
+    </Conceptos>
+    <Impuestos totalImpuestosTrasladados="93.79">
+        <Traslados>
+            <Traslado impuesto="IVA"
+                      tasa="16.00"
+                      importe="93.79" />
+        </Traslados>
+    </Impuestos>
+    <Addenda>
+            <observaciones
+            				xmlns="https://edixcfdisecure.ekomercio.com/esquemas"
+							xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+							xsi:schemaLocation="https://edixcfdisecure.ekomercio.com/esquemas https://edixcfdisecure.ekomercio.com/esquemas/Cimaco.xsd">
+                <observacion>ESTA FACTURA SUSTITUYE A LA NOTA DE VENTA:  4258810 FECHA DE VENTA: 20140206 Ñ LA POSESION DE LA PRESENTE FACTURA NO ACREDITA SU LIQUIDACION Ñ                                                             Ñ</observacion>
+            </observaciones>
+    </Addenda>
+</Comprobante>
